@@ -1,2 +1,2 @@
 # HelloGit
-Aprendendo GitHub no curso de programação web python com django.
+Aprendendo GitHub no curso de programação web python com django no Senac.
